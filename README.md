@@ -6,7 +6,7 @@ In this project, we have refactored Steve's workbook that had analyzed a dozen s
 
 ## Results
 
-Based on our results, 
+Based on our results from the 12 stocks, in 2017 there was a positive return in all except for "TERP". However, in 2018 there was a negative return for all except for "ENPH" and "RUN". It seems as if 2018 was a bad year to invest however the negative return probably had a small effect if Steve had invested in 2017. This is because the percentages of positive return are much higher than the losses of the next year. For example, "DQ" had a percentage return of 199.4% in 2017 but loss 62.6% the next year. This still amounts to a total postive return of 136.8% which is still high. In terms of our refactoring, as you can see below, we were able to decrease the elapsed time of the analysis for both years. This time decreased by almost a 1 second which is significant for when Steve wants to expand the dataset.
 
 ![Elapsed Time 2017](Resources/VBA_Challenge_2017.PNG) ![Elapsed Time 2018](Resources/VBA_Challenge_2018.PNG)
 
